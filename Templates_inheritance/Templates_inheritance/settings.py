@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'Templates_inheritance.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'TEST1',
+        'NAME': 'SRB',
         'USER':'root',
         'PASSWORD':'aman2191',
-    }
+    }       
 }
 
 
